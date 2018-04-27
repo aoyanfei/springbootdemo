@@ -51,5 +51,5 @@ SpringBoot资源文件属性配置：
                         
                 src/mian/resources/resource.properties
                 
-SpringBoot 资源文件配置server以及tomcat
+SpringBoot 资源文件配置server以及tomca
     
